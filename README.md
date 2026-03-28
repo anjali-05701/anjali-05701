@@ -1,13 +1,18 @@
-# Hello, I'm Anjali Sonkar
+#👋 Hello, I'm Anjali Sonkar
 
-B.Tech Computer Science Engineering Student  
+🎓 B.Tech Computer Science Engineering Student  
 VIT Bhopal University  
+
+💻 Currently learning:
+- Programming
+- Cloud Computing
+- Problem Solving
 
 ## About Me
 I am currently learning programming, problem solving, and digital technologies.  
 I am interested in cloud computing and software development.
 
-## Goals
+## Goals 🎯
 - Improve programming skills
 - Work on technical projects
 - Build a strong digital portfolio
@@ -16,7 +21,7 @@ I am interested in cloud computing and software development.
 - GitHub
 - LinkedIn
 - HackerRank
-- Kaggle## Hi there 👋
+- Kaggle
 
 <!--
 **anjali-05701/anjali-05701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
